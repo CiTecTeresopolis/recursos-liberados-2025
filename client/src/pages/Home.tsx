@@ -103,7 +103,7 @@ export default function Home() {
                 Análise de recursos liberados em 2025
               </p>
               <a
-                className="font-bold text-foreground mb-4 text-white mt-5"
+                className="font-bold text-foreground mb-4 mt-5"
                 href="https://dados.teresopolis.rj.gov.br/dataset/recursos-financeiros/resource/341476d6-9c19-4f68-8be8-edb9bff6547f"
               >
                 Dados Abertos Compilados - Clique Aqui 🗎
