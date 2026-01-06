@@ -102,6 +102,12 @@ export default function Home() {
               <p className="text-muted-foreground text-sm mt-1">
                 Análise de recursos liberados em 2025
               </p>
+              <a
+                className="font-bold text-foreground mb-4 text-white mt-5"
+                href="https://dados.teresopolis.rj.gov.br/dataset/recursos-financeiros/resource/341476d6-9c19-4f68-8be8-edb9bff6547f"
+              >
+                Dados Abertos Compilados - Clique Aqui 🗎
+              </a>
             </div>
           </div>
         </div>
@@ -140,7 +146,7 @@ export default function Home() {
             <MetricCard
               title="Mês com Maior Recurso"
               value={`R$ ${(mesComMaiorRecurso.Valor / 1_000_000).toFixed(1)}M`}
-              subtitle={`Mês ${mesComMaiorRecurso.Mes}`}
+              subtitle={`Mês de Outubro`}
               icon={<Calendar className="w-6 h-6" />}
               delay={2}
             />
