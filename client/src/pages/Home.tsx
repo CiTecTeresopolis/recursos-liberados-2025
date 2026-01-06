@@ -162,7 +162,7 @@ export default function Home() {
               Visualizações Detalhadas
             </h2>
             <p className="text-muted-foreground">
-              Análise visual dos dados de recursos
+              Análise visual dos dados
             </p>
           </div>
 
