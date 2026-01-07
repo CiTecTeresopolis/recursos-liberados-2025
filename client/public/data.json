@@ -11943,13 +11943,13 @@
   ],
   "metrics": {
     "total_por_estrutura": [
+       {
+        "Estrutura": "FINANÇAS E ORÇAMENTO",
+        "Valor": 229527281.02
+      },
       {
         "Estrutura": "SAÚDE",
         "Valor": 195006134.89
-      },
-      {
-        "Estrutura": "FINANÇAS E ORÇAMENTO",
-        "Valor": 229527281.02
       },
       {
         "Estrutura": "ASSISTÊNCIA SOCIAL",
